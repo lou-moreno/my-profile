@@ -1,0 +1,199 @@
+body {
+	background-color: #FFF3C7;
+	color: #F7418F;
+	font-family: "Source Serif 4", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.btn-blue {
+background-color:#99154E;
+color: floralwhite;
+padding: 6px 20px;
+border-radius: 4px;
+}
+
+.btn-blue:hover {
+background-color:#EE9595;
+color: floralwhite;
+
+}
+
+h1 {
+	color: #99154E;
+    font-family: "Source Serif 4", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px ;
+	text-align: center;
+	letter-spacing: 0.25em;
+}
+
+a{
+	text-decoration: none;
+		color: #FFB5DA;
+	font-weight: lighter;
+
+}
+h2, h3, h4 {
+	font-family:"Source Serif 4", serif; 
+	letter-spacing: 0.15em;
+	color: rgb(8, 143, 143);
+}
+
+a {
+	text-decoration: none;
+	color: #FFB5DA;
+}
+
+a:hover {
+	color: #8E7AB5;
+}
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+@media (max-width: 760px) {
+	.container{
+		width: 600px;
+	}
+}
+
+@media (max-width: 500px) {
+	.container{
+		width: 400px;
+	}
+
+}
+
+.card-white {
+	background-color: #FFCAD4;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.btn-red {
+	background-color: #FEC7B4;
+	color: #FF3EA5;
+	padding: 12px 17px;
+	border-radius: 5px;
+}
+
+.btn-red:hover {
+	background-color: #F8F6E3;
+	color: #FF3EA5;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: rgb(190, 190, 190);
+}
+
+.list-inline i:hover {
+	color: #F8F6E3;
+}
+
+#introduction p {
+	margin-bottom: 30px;
+}
+
+.profile {
+border-radius: 50%;
+max-width: 100%;
+height: auto;
+}
+
+
+#intro {
+background-color: #7897AB;
+
+}
+
+#intro p {
+margin-bottom: 20px;
+
+}
+#section2 {
+background-color: #C3DBD9;
+
+}
+
+#section3 {
+background-color: #FFDDCC;
+
+}
+
+#section4 {
+background-color: #ECB390;
+
+}
+
+#section5 {
+background-color: #EE9595;
+
+}
+.font-styles {
+	margin-bottom: 5px;
+	justify-content: center;
+	border-radius: 1px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+	margin: 70px;
+	border: 2px solid;
+	padding: 12px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 30px;
+	color: #FFDDCC;
+}
+
+.list-inline i:hover {
+	color: #99154E;
+}
+
+#section4 {
+  text-align: center;
+
+}
+
+.elfsight-app-834d7745-25fa-4065-b200-c209efd16b5d {
+  margin: 0 auto;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
